@@ -1,0 +1,33 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object TMSFMXCloudImage1: TTMSFMXCloudImage
+    Align = Client
+    ClipChildren = True
+    StrokeThickness = 1.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    Version = '1.5.1.0'
+  end
+  object TMSFMXCloudBarcode1: TTMSFMXCloudBarcode
+    Agent = 'Mozilla/5.001 (windows; U; NT4.0; en-US; rv:1.0) Gecko/25250101'
+    App.CallBackPort = 80
+    PersistTokens.Location = plIniFile
+    Logging = False
+    AuthFormSettings.CloseButtonCaption = 'Close'
+    AuthFormSettings.Caption = 'Authorize'
+    AuthFormSettings.Width = 900
+    AuthFormSettings.Height = 600
+    Left = 304
+    Top = 224
+  end
+end

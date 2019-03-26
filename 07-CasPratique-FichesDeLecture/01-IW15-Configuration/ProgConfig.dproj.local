@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/25 22:47:34.000.416,=E:\MesDocuments\Embarcadero\Studio\Projets\sources\07-CasPratique-FichesDeLecture\01-IW15-Configuration\ProgConfig\Unit1.pas</Transaction>
+    <Transaction>2019/03/25 22:47:34.000.975,=E:\MesDocuments\Embarcadero\Studio\Projets\sources\07-CasPratique-FichesDeLecture\01-IW15-Configuration\ProgConfig\UserSessionUnit.pas</Transaction>
+    <Transaction>2019/03/25 22:47:34.000.905,=E:\MesDocuments\Embarcadero\Studio\Projets\sources\07-CasPratique-FichesDeLecture\01-IW15-Configuration\ProgConfig\ServerController.pas</Transaction>
+  </Transactions>
+</BorlandProject>

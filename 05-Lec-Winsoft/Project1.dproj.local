@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/03/24 20:00:37.337,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/03/24 20:03:46.630,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Webinaire\05-Lec-Winsoft\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/03/24 20:03:46.630,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Webinaire\05-Lec-Winsoft\Unit1.dfm=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2019/03/24 20:03:49.255,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Webinaire\05-Lec-Winsoft\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

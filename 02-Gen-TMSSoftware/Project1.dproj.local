@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/03/24 18:30:43.699,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/03/24 18:31:05.229,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Webinaire\02-Gen-TMSSoftware\Unit1.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.fmx</Transaction>
+    <Transaction>2019/03/24 18:31:05.229,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Webinaire\02-Gen-TMSSoftware\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/03/24 18:31:07.405,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Webinaire\02-Gen-TMSSoftware\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <PiMac iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
