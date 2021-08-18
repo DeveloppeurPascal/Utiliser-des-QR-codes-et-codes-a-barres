@@ -4,6 +4,10 @@ Sources du webinaire "Utiliser des QR codes et codes à barres" du 26 mars 2019
 
 Plus d'informations sur la page https://developpeur-pascal.fr/p/_200c-webinaire-du-26-mars-2019-utiliser-des-qr-codes-et-codes-a-barres.html
 
+## TODO List
+
+* sur génération de QRCode, s'assurer que le Bitmap du QRCode est dessiné avec la bonne résolution (vérifier son TBitmap.BitmapScale lors des dessins selon la résolution de l'écran et la profondeur des pixels)
+
 -----
 
 Si vous ne connaissez pas Delphi et le langage Pascal, profitez de la version Academic (pour les étudiants, enseignants et établissements d'enseignement) ou Community Edition (gratuite pour une utilisation personnelle) disponibles chez Embarcadero (rubrique "outils gratuits").
